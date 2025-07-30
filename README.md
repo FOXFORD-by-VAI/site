@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Foxford Community — исходный код сайта
 
-First, run the development server:
+![LOGO with shadows](/public/ffc-long-logo-with-cool-shadow.svg)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> Сайт, который знает, кому стоит поучиться перед тем, как учить.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Кто мы?
+Foxford Community (Сообщество ФоксФорд / ЛиФье Сообщество) — это независимое сообщество учеников, выпускников, родителей, педагогов и энтузиастов, выросшее вокруг образовательной платформы Foxford. Мы не связаны с ООО «ФоксФорд» и не являемся их официальным проектом.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Мы — за свободу знаний, открытость, взаимопомощь и развитие без бюрократии и цензуры. Наше сообщество существует благодаря вкладу обычных людей, которые хотят сделать образование доступнее и честнее.
 
-## Learn More
+## О проекте
+Это — открытый исходный код сайта [foxford-community.ru](https://foxford-community.ru).
 
-To learn more about Next.js, take a look at the following resources:
+Здесь реализованы:
+- Платформа для общения, поддержки и обмена опытом
+- Инструменты для саморазвития, совместных проектов и взаимного обучения
+- Боты, интеграции, автоматизация, сервисы для Discord и Telegram
+- Система ролевых команд, рейтингов, событий и многое другое
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Почему мы за Open Source?
+Мы верим, что открытый код — это путь к настоящему развитию сообщества:
+- Любой может предложить улучшение или исправление
+- Идеи не теряются из-за бюрократии или ограничений одной компании
+- Всё реализуемо вместе, а не только «сверху»
+- Прозрачность и доверие между участниками
+- Возможность быстро реагировать на запросы и проблемы
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Как принять участие?
+- Присоединяйтесь к обсуждению и разработке (Discord, Telegram, GitHub)
+- Делайте pull request'ы, предлагайте идеи и улучшения
+- Помогайте с тестированием, документацией, дизайном
+- Распространяйте информацию о проекте
 
-## Deploy on Vercel
+## Как мы выстоим против блокировок и давления
+ООО «ФоксФорд» неоднократно пыталось ограничить свободу нашего сообщества:
+- Закрытие официальных Discord-серверов
+- Введение жёсткой модерации и цензуры
+- Игнорирование обратной связи и идей пользователей
+- Попытки юридического давления
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Мы не сдаёмся!**
+- Наш сайт и сервисы размещены на независимых платформах
+- Код открыт и может быть поднят любым участником в любой момент
+- Мы используем резервные домены, зеркала и децентрализованные каналы связи
+- Все важные решения принимаются коллективно, а не «сверху»
+- Мы готовы к любым попыткам блокировки и всегда найдём способ остаться на связи
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Лицензия
+Проект распространяется под специальной лицензией Foxford Community (см. [LICENSE](LICENSE)). Некоммерческое использование — свободно, коммерческое — только по согласованию с основными контрибуторами.
+
+---
+
+Foxford Community — сайт, который знает, кому стоит поучиться перед тем, как учить.

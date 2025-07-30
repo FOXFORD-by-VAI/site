@@ -19,7 +19,10 @@
       }
     ],
     "paths": {
-      "vaid_ffc/*": ["./*"]
+      "vaid_ffc_root/*": ["./*"],
+      "telegram/*": ["./telegram/*"],
+      "vaid_ffc_app/*": ["./app/*"],
+      "db_models/*": ["./db_models/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
