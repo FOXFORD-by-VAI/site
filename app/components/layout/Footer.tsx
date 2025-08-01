@@ -119,7 +119,7 @@ const Footer: React.FC<FooterProps> = ({ className = "" }) => {
 
       <div className="max-w-6xl mx-auto">
         {/* Верхняя секция с логотипом и основной информацией */}
-        <div className="text-center mb-12">
+        <div className="text-center mb-10">
           <div className="flex justify-center mb-6">
             <LogoIcon className="h-12 w-auto filter grayscale brightness-75 hover:filter hover:grayscale-0 hover:brightness-100 transition-all duration-300" />
           </div>
@@ -139,6 +139,8 @@ const Footer: React.FC<FooterProps> = ({ className = "" }) => {
           </p>
         </div>
 
+        {/* Разделитель перед разделами ссылок */} 
+        <div className="border-t border-white/10 mb-8"></div>
         {/* Основные разделы ссылок */}
         <div className="grid md:grid-cols-2 gap-8 mb-8">
           {/* Сообщество */}
