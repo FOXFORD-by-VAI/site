@@ -61,7 +61,7 @@ const AuthorsPage = () => {
         { name: "Telegram Бот", url: "https://t.me/SeeGiftBot", icon: <Link /> },
       ],
       tags: ["Финансы", "Крипта", "Модерация"],
-      stats: { gifts: 280, nfts: 36, age: "13 лет", messages: "1000+" }
+      stats: { gifts: 280, nfts: 36, age: "2012-02-06", messages: "1000+" }
     },
     {
       name: "Рис",

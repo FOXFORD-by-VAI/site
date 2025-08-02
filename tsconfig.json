@@ -23,8 +23,9 @@
       "telegram/*": ["./telegram/*"],
       "vaid_ffc_app/*": ["./app/*"],
       "db_models/*": ["./db_models/*"]
-    }
+    },
+    "allowImportingTsExtensions": true,
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules"],
 }
